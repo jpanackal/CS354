@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T03:46:32.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ZaeUpK9E2iJ1l6ojExX0" version="13.9.9" type="github"><diagram id="wpZx2XXRQ_M-DQN3IrfD" name="Page-1">7Vpdc5s4FP01ntl9cAYkPh9dJ2my03Q9dbrZ7MuOAophC4gRIjb99ZUA2QiwY9d2SWb2xUaXiyzfc869V7JHcBqvPlKUBnfEx9EIaP5qBC9HAOi2ZfA3YSlqC7C0yrKgoV/ZGoZ5+B3XjtKahz7OaltlYoRELExVo0eSBHtMsSFKyVJ1eyaRrxhStMDKMoRh7qEId9weQp8FldUxG943OFwE8pN1rb4TI+lcG7IA+WTZMMGrEZxSQlh1Fa+mOBLRU+NyveXuemEUJ2yvB+KXSfGQWv+mwT+fv37BY5QuxvUsLyjK6y98h8KEWyJC0hGcjIAV8dk/PFF+tRBXXQsPVpSJcCe+QAdF37ISJREEkjH+Rp6FIcClxc8jLBz8kHLAooJfPuVMubUkCSsxjeM8CT3EsJwQIy8QE/LJaB1WVkislkHI8DxFnhgvOSH54gIWR3yk80uUpRVDnsMV9suv0o6gDAemDK8apjqiHzGJMaNiyfVdCGt0Czk2q/FyQxbdracNmkSRRlQTdLGee4Mhv6hhPARS0AkM9jmn6yGhLCALkqDoamP9QEme+CIolxofbXw+lTQow/cfZqyoBYpyjoYS3K2xzEhOPbxjvbBWNaILzF6nqvguO5GhOEIsfFH12xfl8tEJpahoOKQkTFjWmHkmDA3AbUMB3DLNFmLVjBv81kv7eUhhR6UzkbZEkkn5610pnK4wb1AmxHKPngTGe2n5XoiMUZRkUaW62S3/uOlfs89SgTNxObzwxqatCg/0CE+KUxGeNJ5eeHAI4fEQ0uLv5uBRTHZhyuHlqp68GhX16OcFa7wrwZqOShTdddQy+Yq/AfXzC1w3/qdO0886C3U6WNuuWr1tvZUbqoXWT21IcCgHx7qtHUTCzgO2pu18wDGso/wNZ7e/21rPof7ANc6vIqNTJudLUSCvebUMk4XoOfFL6G3a0DdRyGxHpQaEgxcyrROYN91BWu+qIK2TTCELzm4pGbKz6fc/j5SsrpQYj0nGQi/bdJz79ZRxnnV3c8uQNTZyjb1f2WQKHAX/UBXIoTVqG6pGATS6GgV9GgXn0qj7viRqDyXRo4Jsd1Tw6ctXbphEC0I5geO3QE7QamL0vo2Q2Vc/zOPDNnHz+Orh5jJ7/mOJGHBmj+Pv40Ga2V7ivErW3vXLc8a9yHryphRauoIn1F11ihM1pbqj1hX9lToE2j3sgf6SmNv8ITjS3969HmhbR/lLHLb6Ozv9j67Tu6jayFDXt9d/niFFdfJRj7S2pii9DZXWk6LO1eL2xm3Yoxrtwl7vsR9HzS32rg33SXIb+EW57Sh0QIfV04h4394arY12hhuc1tY7r7zmWSqqrFTrymXvVVBPlaPtgXPNUKnG3DPV2EOmGmdocCxLPXzVtNeOX8vRDNOQR4Bvnn8Fbtuz9FC4mZ0SMfcC7OdRddDXqBMWikUtSJ6ytPd4IsDIL88gnsOTnQgeVVaAC5R0NQaa1S0s8icDpbBI48nDPcyR4HE/UJxEDO6eSQyepXIBvbWncMCF5mquzTf9GnQlL06+M3TVT3VPe+K4K9DKb9w0E0eFt0kq/h/S1u1v9xSVZ/nXXLfZ729BuXpry2jrXeE6PQ2hc3g/yIebvw5VGGz+gQWvfgA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-20T03:46:52.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0t1qvPBxl-tFncAbyXBT" version="13.9.9" type="github">
+  <diagram id="wpZx2XXRQ_M-DQN3IrfD" name="Page-1">
+    <mxGraphModel dx="1764" dy="1260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1mvAyWp6_phZNURe-apg-1" value="Main loop:&lt;br&gt;&lt;br&gt;calls and talks to most of the modules directly but modules wont communicate to each other" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="330" y="335" width="191" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1mvAyWp6_phZNURe-apg-3" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="374" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-3" value="Page map Module&lt;br&gt;Hash Table:&lt;br&gt;&lt;br&gt;To translate PID,VPN to PPN" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-57" y="325" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1mvAyWp6_phZNURe-apg-4" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="226" />
+              <mxPoint x="223" y="431" />
+            </Array>
+            <mxPoint x="305" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1mvAyWp6_phZNURe-apg-4" target="1mvAyWp6_phZNURe-apg-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="198" />
+              <mxPoint x="-170" y="700" />
+              <mxPoint x="846" y="700" />
+              <mxPoint x="846" y="480" />
+              <mxPoint x="970" y="480" />
+              <mxPoint x="970" y="294" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-4" value="Swap/Paging device module" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-78" y="133" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1mvAyWp6_phZNURe-apg-6" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="580" />
+              <mxPoint x="425" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-6" value="Statistics Module:&lt;br&gt;&lt;br&gt;must communicate with other modules to get stats" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="748" y="234" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1mvAyWp6_phZNURe-apg-7" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1mvAyWp6_phZNURe-apg-7" value="LRU Algorithm" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="290" y="15" width="135" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9umEWHDsfJwat28PY-z-1" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="361" y="319" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="180" />
+              <mxPoint x="270" y="180" />
+              <mxPoint x="270" y="215" />
+              <mxPoint x="320" y="215" />
+              <mxPoint x="320" y="270" />
+              <mxPoint x="376" y="270" />
+              <mxPoint x="376" y="319" />
+              <mxPoint x="386" y="319" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-1" value="FIFO Algorithm" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="20" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A9umEWHDsfJwat28PY-z-2" target="1mvAyWp6_phZNURe-apg-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-2" value="Clock Algorithm" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="20" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="A9umEWHDsfJwat28PY-z-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A9umEWHDsfJwat28PY-z-5" target="1mvAyWp6_phZNURe-apg-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.566;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="A9umEWHDsfJwat28PY-z-5" target="A9umEWHDsfJwat28PY-z-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-5" value="Scheduling Algorithm&amp;nbsp;&lt;br&gt;header file" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="292" y="-206" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="A9umEWHDsfJwat28PY-z-9" target="1mvAyWp6_phZNURe-apg-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="216" y="382.0909729003906" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="189" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A9umEWHDsfJwat28PY-z-9" value="Parse Input&lt;br&gt;(Trace Files)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="176" y="716" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
